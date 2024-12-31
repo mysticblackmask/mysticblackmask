@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Microsoft Dynamics 365 & Power Platform**
 
-- 👨‍💻 All of my projects are available at [https://](https://linktr.ee/guruprasad9610)
+- 👨‍💻 All of my projects are available at [](https://linktr.ee/guruprasad9610)
 
 - 💬 Ask me about **MEVRN, Django, Flask, SQL && NOSQL, ORM && ODM**
 
@@ -29,7 +29,6 @@
 <a href="https://linkedin.com/in/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mysticblackmask" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mysticblackmask" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mysticblackmask" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
